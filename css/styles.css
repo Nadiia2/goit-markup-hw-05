@@ -497,8 +497,8 @@ p {
   border-radius: 4px;
   color: #ffffff;
 }
-.footer-form .footer-form-input[placeholder="E-mail"] {
-  color: #ffffff;
+.footer-form-input::placeholder {
+  color: #fff;
 }
 .footer-form-button {
   min-width: 165px;
